@@ -1,7 +1,10 @@
-h1{
+h1 {
     /* commento */
     font-size: 50px;
     color: azure;
     font-weight: bold;
 }
 
+h3 {
+    color: red;
+}
